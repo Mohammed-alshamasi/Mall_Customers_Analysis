@@ -3,7 +3,7 @@
   2. You will need to install the Dataset from [Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
 ## Project Motivation:
-  I'm really intreasted in invstegating customer spending score based on their Gender, Age group and Annual income then cluster them and target specific segments.
+    I'm really intreasted in invstegating customer spending score based on their Gender, Age group and Annual income then cluster them and target specific segments.
   
 ## File Descriptions:
   1. Mall_Customers.csv: This is the Dataset I used in my project .
