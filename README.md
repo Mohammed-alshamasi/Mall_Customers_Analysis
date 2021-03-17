@@ -13,4 +13,6 @@
   - We found some interesting findings where people in the Age group 24-29 and 30-35 tend to have higher spending score than any other Age group.
   - Then I used Kmeans clustering algorithm to separate customers based on their Annual income and their Spending score. 
   
+## Licensing, Authors, and Acknowledgements:
+Must give credit to Vijay Choudhary for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python). Otherwise, feel free to use the code here as you would like!
   
